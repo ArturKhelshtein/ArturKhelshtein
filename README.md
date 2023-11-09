@@ -8,6 +8,9 @@
 
 <h4>Stack of technologies:</h4>
 <p>Frontend</p>
+<a href="#">
+	<img src="https://img.shields.io/badge/GitHub-ArturKhelshtein-blue?style=flat-square&logo=github" alt="GitHub">
+</a>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,5 +56,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturKhelshtein&layout=compact)](https://github.com/ArturKhelshtein/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/ArturKhelshtein/badges/small)](https://www.codewars.com/users/ArturKhelshtein) 
-
-![](https://komarev.com/ghpvc/?username=ArturKhelshtein)
