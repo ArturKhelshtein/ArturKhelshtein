@@ -96,7 +96,7 @@
 
 <div id="contact">
 	<h4>Contact</h4>
-	<a href="https://t.me/Artur_Khelshtein">
+	<a href="https://t.me/ArturKhelshtein">
 		<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
 	</a>
 	<a href="mailto:artur.khelshtein@live.com">
