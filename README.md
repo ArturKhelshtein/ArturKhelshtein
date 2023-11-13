@@ -10,9 +10,9 @@
 <p>I like to work in a team, and I can often understand from half a word :D</p>
 
 <h4>Stack of technologies:</h4>
-<div id="frontend" style="display: inline">
+<div id="frontend" style="display: inline; "text-decoration: none">
 	<p>Frontend:</p>
-	<a href="#" style="text-decoration: none !important">
+	<a href="#">
 		<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" />
 	</a>
 	<a href="#">
@@ -102,7 +102,7 @@
 	<a href="mailto:artur.khelshtein@live.com">
 		<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge" />
 	</a>
-	<a href="https://www.linkedin.com/in/artur-khelshtein/">
+	<a href="https://www.linkedin.com/in/arturkhelshtein/">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 	</a>
 	<a href="https://www.facebook.com/artur.khelshtein">
