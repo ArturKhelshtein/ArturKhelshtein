@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <h1>🔥Hello world!🔥</h1>
 <h3>My name is Arthur and I am a Frontend developer.</h3>
-<p>(you can see my summary <a href="https://github.com/ArturKhelshtein/ArturKhelshtein/blob/main/X%D0%B5%D0%BB%D1%8C%D1%88%D1%82%D0%B5%D0%B9%D0%BD%20A%D1%80%D1%82%D1%83%D1%80.pdf" >here</a> (<i>in Russian</i>))</p>
+<!-- <p>(you can see my summary <a href="https://github.com/ArturKhelshtein/ArturKhelshtein/blob/main/X%D0%B5%D0%BB%D1%8C%D1%88%D1%82%D0%B5%D0%B9%D0%BD%20A%D1%80%D1%82%D1%83%D1%80.pdf" >here</a> (<i>in Russian</i>))</p> -->
 </div>
 <br/>
 
